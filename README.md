@@ -7,4 +7,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Errlogic&layout=compact&theme=github_dark)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=ErrLogic&theme=github-dark)
+![Profile Views](https://komarev.com/ghpvc/?username=ErrLogic&style=flat&color=grey)
