@@ -4,7 +4,7 @@
 I code a lot. GitHub just isn’t allowed to see most of it 🤫
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ErrLogic/ErrLogic/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ErrLogic/ErrLogic/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake" src="https://github.com/ErrLogic/ErrLogic/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
