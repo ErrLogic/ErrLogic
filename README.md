@@ -6,5 +6,3 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=ErrLogic&show_icons=true&hide=issues,stars&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Errlogic&layout=compact&theme=github_dark)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ErrLogic&style=flat&color=grey)
