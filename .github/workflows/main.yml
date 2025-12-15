@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # <— INI PENTING
+  contents: write
 
 jobs:
   generate:
@@ -16,9 +16,16 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ErrLogic
+          color_snake: "#7CFF00"
+          color_dots: |
+            #161b22
+            #0e4429
+            #006d32
+            #26a641
+            #39d353
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
 
       - name: Push generated files
         uses: crazy-max/ghaction-github-pages@v4
