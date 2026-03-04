@@ -12,7 +12,7 @@ I code a lot. GitHub just isn’t allowed to see most of it 🤫
 
 </div>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center">
       <b>Most Used Languages</b><br><br>
@@ -25,5 +25,5 @@ I code a lot. GitHub just isn’t allowed to see most of it 🤫
       <img src="https://readme-jokes.vercel.app/api?theme=dark" />
     </td>
   </tr>
-</table>
+</table> -->
 
